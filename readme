@@ -1,4 +1,4 @@
-Our program aims to recreate the operations performed by the Scientific Calculator, Calendar 
+This program aims to recreate the operations performed by the Scientific Calculator, Calendar 
 and Clock applications found on nearly all our electronic devices using only concepts of C 
 programming language. It will allow users to choose which type of widget operation they 
 want to perform using the selection control mechanism (switch case) and enter that block and 
